@@ -9,6 +9,7 @@ sono gabrival2
 Matteo Alessandrini
 Matale70@gmail.com
 matteoalessandrini
+<<<<<<< HEAD
 
 sono gabrival2
 
@@ -24,3 +25,8 @@ bizitt
 Arberi Veliu
 arberiv@gmail.com
 VeliuArberiITT
+
+NICOLO POLLINI 
+POLLINI_ITT 
+NPOLLO97@HOTMAIL.IT 
+
