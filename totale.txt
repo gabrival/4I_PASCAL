@@ -1,3 +1,6 @@
 Questo è il file dove dovete aggiungere una riga con i vostri dati identificativi (cognome/nome/email/usergithub)
 
 sono gabrival2
+Matteo Alessandrini
+Matale70@gmail.com
+matteoalessandrini
