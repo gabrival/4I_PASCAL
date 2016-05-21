@@ -1,3 +1,5 @@
 Questo è il file dove dovete aggiungere una riga con i vostri dati identificativi (cognome/nome/email/usergithub)
 
-sono gabrival2
+Graziani Giovanni
+giovanni.graziani.i@gmail.com
+giovannigraziani
